@@ -7,3 +7,19 @@
     border: solid 1px #888;
     background-color: #DDD8C4;
   }
+h1{
+  text-indent: 20px;
+  color: maroon;
+  text-decoration-line: underline;
+  text-shadow: 0lvw;
+  text-decoration-color: black;
+}
+pre{
+  color: orangered;
+  text-align: left;
+  
+}
+code{
+  color: orangered;
+  text-align: left;
+}
