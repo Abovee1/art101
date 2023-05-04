@@ -6,9 +6,10 @@
 //Function in order to determine what it is
   // if x = random value it determines if
     //flip head
+    //else: 
     //flip tails
 //Function Flips Coin
-  //You get results :)
+  //You get results
 
 // Constants
 
