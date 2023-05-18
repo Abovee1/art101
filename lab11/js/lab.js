@@ -25,9 +25,9 @@ $("#reflection").append("<button id='r-button'>Button</button>");
 $("#results").append("<button id='t-button'>Button</button>");
 
 
-//$("#c-button").click(function(){
+$("#c-button").click(function(){
   $(this).parent().toggleClass("special");
-//})
+})
 
 $("#p-button").click(function(){
   $(this).parent().toggleClass("special");
